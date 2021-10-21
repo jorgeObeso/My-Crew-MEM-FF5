@@ -1,7 +1,9 @@
 .team {
     width:600px;
+    min-height: 652px;
     margin:auto;
-    min-height: 606px;
+    position: relative;
+    top: 60px;
 }
 
 article {
@@ -47,6 +49,6 @@ article img {
 
 }
 
-.raul{
+.raul {
     font-size: 12pt;
 }
