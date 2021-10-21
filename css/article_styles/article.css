@@ -1,0 +1,43 @@
+.team{
+    width:600px;
+    margin:auto;
+}
+article{
+    width:150px;
+    height: 200px;
+    display: flex;
+    float: left;
+    position: relative;
+    flex-direction: column;
+    min-width: 0;
+    margin:1% 12%;
+
+}
+article img{
+    margin:auto;
+    border-radius:50%; width:125px; height:125px;
+    box-shadow: 15px 1px 0px rgba(207, 178, 37, 0.7) ;
+    
+}
+.headers_team{
+    background-color:#38639A ;
+    width:150px;
+    margin: auto;
+    padding:0.5% 0.5em;
+}
+.team h2{
+    text-align: center;
+    margin: 0;
+    display: block;
+    font-size: 16pt;
+}
+.team h3{
+    color:#ffffff;
+    text-align: center;
+    padding: 0;
+}
+
+.ileen,.jorge{
+    font-size: 11pt;
+}
+.vivi,.raul{font-size: 12pt;}
