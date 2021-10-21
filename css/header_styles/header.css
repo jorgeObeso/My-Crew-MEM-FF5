@@ -1,0 +1,39 @@
+header{
+    display: flex;
+    margin: 20px;
+
+}
+.header{
+    float: left;
+    width: 350px;
+    text-align: center;
+ 
+}
+.logotype{
+    width: 76px;
+    height: 53px;
+    background-color: #F0D553;
+margin: 0 50%;
+}
+.slogan{
+    font-size: 24px;
+    width: 235px;
+    height: 37px;
+    text-align: center;
+    padding: 10px 2.5px 2.5px 2.5px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FFFFFF;
+    background-color: #38639A;
+
+
+}
+h1{
+    font-size: 48px;
+   /* display: grid;*/
+    width: 606px;
+    height: 120px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #38639A;
+    background-color: brown;
+}
